@@ -91,7 +91,7 @@ The pipelines showcase real-world data ingestion, transformation, storage, and m
 
 ---
 
-1. **InvokeHTTP Processors**: Calls multiple APIs to fetch JSON data (e.g., Bored API).
+1. **InvokeHTTP Processors**: Calls multiple APIs to fetch JSON data (e.g., Bored API https://bored-api.appbrewery.com/random).
 <img width="776" alt="Screenshot 2025-05-16 at 1 53 51 PM" src="https://github.com/user-attachments/assets/8035ee3f-ae51-45bf-b8fd-e3e32bd399c5" />
 <img width="858" alt="Screenshot 2025-05-16 at 1 53 38 PM" src="https://github.com/user-attachments/assets/6479146a-e539-4a5e-a334-b9b0cca4719d" />
 
