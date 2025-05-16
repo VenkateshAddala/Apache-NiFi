@@ -156,17 +156,17 @@ NiFi_FLow - API's.json
 NiFi_Flow - postgresql.json
 ```
 Install Apache NiFi on your local machine.
-
+```
 Official Docs: https://nifi.apache.org/docs.html
-
+```
 Import the Templates into your NiFi UI:
-
+```
 Open NiFi → Operate Palette → Upload Template → Select JSON files.
-
+```
 Configure Necessary Services:
-
+```
 Update controller services (e.g., DBCPConnectionPool for DB).
-
+```
 Adjust local paths for input/output folders.
 
 Update email configurations if needed.
